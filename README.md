@@ -1,6 +1,6 @@
-# BattleAI: 2D Arena with Trainable Agents
+# BattleAI: Trainable Agents
 
-This project simulates a 2D environment where two robot agents fight each other. Agents can be manually controlled or trained using reinforcement learning (DQN). The simulation is rendered using Pygame, and the neural network is implemented in PyTorch.
+This project simulates a environment where two robot agents fight each other. Agents can be manually controlled or trained using reinforcement learning (DQN). The simulation is rendered using Pygame, and the neural network is implemented in PyTorch.
 
 ## Features
 
