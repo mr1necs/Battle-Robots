@@ -93,7 +93,3 @@ Agents are trained using a Deep Q-Network. Training sessions log scores, rewards
 
 MIT License
 
----
-
-Developed by [Max](https://github.com/yourusername)
-
